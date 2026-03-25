@@ -1,16 +1,14 @@
 # Urban Pollution Dataset and Modelling Code
 
-This repository contains data and code used in the study:
-
-"A Multi-Scale Data-Driven Framework for Modeling Traffic-Related Pollutant Dispersion and Deposition Around Urban Buildings"
+This repository contains the data and code used in a study on traffic-related air pollution near urban buildings.
 
 ## Contents
-- Dataset: Environmental monitoring data (CO2, PM2.5, traffic, climatic variables)
-- Machine Learning Models: SVR and Bayesian-optimized regression
-- CFD Simulation: MATLAB scripts for pollutant dispersion modelling
+- Dataset: Environmental monitoring data including CO₂, PM₂.₅, traffic counts, and climatic variables  
+- Machine Learning Models: SVR and regression-based models used for prediction  
+- CFD Simulation: MATLAB scripts for airflow and pollutant dispersion modelling  
 
 ## Usage
-The dataset can be used for training and validation of models. MATLAB scripts simulate airflow and pollutant transport.
+The dataset can be used for training and validation of predictive models. The MATLAB scripts can be used to simulate airflow and pollutant transport in urban environments.
 
 ## Note
-All data are collected using sensor-based monitoring and processed for analysis.
+The data were collected using sensor-based monitoring systems and processed for analysis.
