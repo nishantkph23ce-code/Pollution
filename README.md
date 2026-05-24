@@ -28,3 +28,11 @@ Install dependencies using:
 
 ```bash
 pip install numpy pandas scikit-learn matplotlib
+## Implementation Steps
+
+1. Download or clone the repository.
+2. Load the dataset into MATLAB.
+3. Run preprocessing and calibration scripts.
+4. Execute machine learning prediction models.
+5. Run CFD MATLAB scripts for airflow and pollutant dispersion analysis.
+6. Visualize prediction and simulation outputs.
