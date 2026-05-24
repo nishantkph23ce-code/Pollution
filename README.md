@@ -12,3 +12,19 @@ The dataset can be used for training and validation of predictive models. The MA
 
 ## Note
 The data were collected using sensor-based monitoring systems and processed for analysis.
+## Requirements
+
+### Software
+- MATLAB R2024b
+- Python 3.9+ (optional)
+
+### Python Libraries
+- numpy
+- pandas
+- scikit-learn
+- matplotlib
+
+Install dependencies using:
+
+```bash
+pip install numpy pandas scikit-learn matplotlib
